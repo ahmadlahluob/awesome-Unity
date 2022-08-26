@@ -24,7 +24,7 @@ Main Roadmap by [Chris Ohk](http://www.github.com/utilForever).
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2017-2022 [Chris Ohk](http://www.github.com/utilForever).
+
 
 Copyright &copy; 2017-2022 [ahmad lahluob](http://www.github.com/utilForever).
 
