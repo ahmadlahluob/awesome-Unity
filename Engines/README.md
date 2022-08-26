@@ -8,8 +8,7 @@
 
 #
 ## Unity
-<img align="right" src="https://github.com/ahmadlahluob/Game-Maker-Masterclass/blob/main/Engines/logos/UnityLogo.png">
-
+<img align="right" src="https://github.com/ahmadlahluob/Game-Maker-Masterclass/blob/main/Engines/logos/UnityLogo.png" width ="200" hieght ="200">
 
 #
 ## Unreal
