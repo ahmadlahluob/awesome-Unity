@@ -18,7 +18,7 @@
 Game-Maker-Masterclas is a project made by [ahmad-lahluob](https://github.com/ahmadlahluob) to help you finding good resources (video courses / books / manually writed ) talking about game making 
 #
 ## References
-Main referenced from  [game-developer-roadmap
+Main Roadmap referenced from  [game-developer-roadmap
 ](https://github.com/utilForever/game-developer-roadmap).
 # 
 ## License
