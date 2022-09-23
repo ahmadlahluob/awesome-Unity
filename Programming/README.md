@@ -8,9 +8,9 @@
 - [C# with Unity]()
 #
 # Resources
-- ## [Progrmming]()
-- ## [c#](#c-sharp)
-- ## [C++]()
+- ## [Programming](#programming-1)
+- ## [c#](#csharp)
+- ## [C++](#cpp)
 #
 # Programming
 - ## [books]()
@@ -26,7 +26,7 @@
     -
     -
 
-# C-Sharp
+# <a id="csharp"></a>C\#
 - ## [books]()
     - [C# Yellow Book (free)](http://www.csharpcourse.com/)
     - [Fundamentals of Computer Programming with C# (free)](https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf)
@@ -46,7 +46,7 @@
     - [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/)
     - [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
     - [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/)
-# C++
+# <a id="cpp"></a>C++
 - ## [books]()
     - 
     -
