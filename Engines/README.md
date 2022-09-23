@@ -16,26 +16,25 @@ unity is a cross-platform game engine developed by [Unity Technologies](https://
     - [Building an FPS Game with Unity ](https://www.amazon.com/Building-Game-Unity-John-Doran/dp/178217480X)
     - [Unity Virtual Reality Projects](https://www.amazon.com/Unity-Virtual-Reality-Projects-immersive/dp/178398855X)
 - ## YouTube
- 
-## channels
-- [Jason Weinmann](https://www.youtube.com/c/Unity3dCollege)
-- [Brackeys](https://www.youtube.com/c/Brackeys)
-- [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
-- [Samyam](https://www.youtube.com/c/samyam)
-- [6wrni-(arabic)](https://www.youtube.com/c/6wrni)
-- [GameDevGuide](https://www.youtube.com/c/GameDevGuide)
-- [InfallibleCode](https://www.youtube.com/c/InfallibleCode)
-- [Hassouna Academy (arabic)](https://www.youtube.com/c/HassounaAcademy)
-## playlists
-- [Beginner-friendly scripting tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B)
-- [HOW TO PROGRAM in C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
-- [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
-- [Unity Intermediate Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
-- [Unity Advanced Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5qEyOlJImGFoHcxg9XUQci)
-- [How to make an RPG in Unity](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
-- [Unity FPS Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk)
-- [Unity Full Game Tutorials](https://www.youtube.com/playlist?list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L)
-- [Build a 2D Platformer Game in Unity | Unity Beginner Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
+    - ## channels
+        - [Jason Weinmann](https://www.youtube.com/c/Unity3dCollege)
+        - [Brackeys](https://www.youtube.com/c/Brackeys)
+        - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
+        - [Samyam](https://www.youtube.com/c/samyam)
+        - [6wrni-(arabic)](https://www.youtube.com/c/6wrni)
+        - [GameDevGuide](https://www.youtube.com/c/GameDevGuide)
+        - [InfallibleCode](https://www.youtube.com/c/InfallibleCode)
+        - [Hassouna Academy (arabic)](https://www.youtube.com/c/HassounaAcademy)
+    - ## playlists
+        - [Beginner-friendly scripting tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B)
+        - [HOW TO PROGRAM in C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
+        - [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+        - [Unity Intermediate Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6Wxj8HaJ_pZhBtaamtXL7J)
+        - [Unity Advanced Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5qEyOlJImGFoHcxg9XUQci)
+        - [How to make an RPG in Unity](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
+        - [Unity FPS Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk)
+        - [Unity Full Game Tutorials](https://www.youtube.com/playlist?list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L)
+        - [Build a 2D Platformer Game in Unity | Unity Beginner Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
 #
 - ## Udemy
     -
