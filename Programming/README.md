@@ -53,13 +53,16 @@
     - [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf)
     - [C++ Notes for Professionals ](https://goalkicker.com/CPlusPlusBook/)
 - ## [YouTube]()
-    -
-    -
-    -
+    - [Introduction to Programming Using C++ (arabic)](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy)
+    - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+    - [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - ## [Udemy]()
-    -
-    -
-    -
+    - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+    - [The C++20 Masterclass : From Fundamentals to Advanced](https://www.udemy.com/course/the-modern-cpp-20-masterclass/)
+    - [Learn Advanced Modern C++](https://www.udemy.com/course/learn-intermediate-modern-c/)
+    - [Learn Advanced C++ Programming](https://www.udemy.com/course/learn-advanced-c-programming/)
+    - [Design Patterns in Modern C++](https://www.udemy.com/course/patterns-cplusplus/)
+    - [C++ Intermediate to Advanced Course with Project](https://www.udemy.com/course/c-intermediate-to-advanced-course-with-project/)
 #
 ## Fundimentals
 - [Printing on Console](#printing-on-console)
