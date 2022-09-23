@@ -48,9 +48,10 @@
     - [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/)
 # <a id="cpp"></a>C++
 - ## [books]()
-    - 
-    -
-    -
+    - [Fundamentals of Programming c++](https://freecomputerbooks.com/Fundamentals-of-Programming-Cpp.html)
+    - [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)
+    - [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf)
+    - [C++ Notes for Professionals ](https://goalkicker.com/CPlusPlusBook/)
 - ## [YouTube]()
     -
     -
