@@ -9,7 +9,7 @@
 #
 # Resources
 - ## [Progrmming]()
-- ## [c#]()
+- ## [c#](#c-sharp)
 - ## [C++]()
 #
 # Programming
@@ -26,7 +26,7 @@
     -
     -
 
-# C#
+# C-Sharp
 - ## [books]()
     - [C# Yellow Book (free)](http://www.csharpcourse.com/)
     - [Fundamentals of Computer Programming with C# (free)](https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf)
@@ -42,9 +42,10 @@
     - [c# tutorial for beginners](https://www.youtube.com/playlist?list=PLAC325451207E3105)
     - [How To Program in c#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 - ## [Udemy]()
-    -
-    -
-    -
+    - [Complete C# Masterclass](https://www.udemy.com/course/complete-csharp-masterclass/)
+    - [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/)
+    - [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
+    - [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/)
 # C++
 - ## [books]()
     - 
