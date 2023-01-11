@@ -25,6 +25,7 @@ unity is a cross-platform game engine developed by [Unity Technologies](https://
         - [GameDevGuide](https://www.youtube.com/c/GameDevGuide)
         - [InfallibleCode](https://www.youtube.com/c/InfallibleCode)
         - [Hassouna Academy (arabic)](https://www.youtube.com/c/HassounaAcademy)
+        - [IHeartGameDev](https://www.youtube.com/@iHeartGameDev)
     - ## playlists
         - [Beginner-friendly scripting tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B)
         - [HOW TO PROGRAM in C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
@@ -35,6 +36,11 @@ unity is a cross-platform game engine developed by [Unity Technologies](https://
         - [Unity FPS Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR7dFbE2UQYu7QWMdUgDnlnk)
         - [Unity Full Game Tutorials](https://www.youtube.com/playlist?list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L)
         - [Build a 2D Platformer Game in Unity | Unity Beginner Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
+        -[Let's Learn Unity!](https://www.youtube.com/playlist?list=PLwyUzJb_FNeS8s7OQKeNIr3NMHBIbhFeC)
+        -[Unity's Animation System](https://www.youtube.com/playlist?list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO)
+        -[Character Controllers](https://www.youtube.com/playlist?list=PLwyUzJb_FNeQrIxCEjj5AMPwawsw5beAy)
+        -[Cinemachine](https://www.youtube.com/playlist?list=PLwyUzJb_FNeTkzlDLlbD5L0oX1ajWu8Pz)
+        -[Animation Rigging Package](https://www.youtube.com/playlist?list=PLwyUzJb_FNeScUWldQRYMqM3Clz7XXCyq)
 #
 - ## Udemy
     -
