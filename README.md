@@ -15,7 +15,7 @@
 - [Rendering](./Rendering/README.md)
 #
 ## About
-Game-Maker-Masterclas is a project made by [ahmad-lahluob](https://github.com/ahmadlahluob) to help you finding good resources (video courses / books / manually writed ) talking about game making 
+Game-Maker-Masterclas is a project made by [ahmad-lahluob](https://github.com/ahmadlahluob) to help you finding good resources (video courses / books) talking about game making 
 #
 ## References
 Main Roadmap referenced from  [game-developer-roadmap
