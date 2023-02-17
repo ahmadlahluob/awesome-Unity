@@ -1,33 +1,31 @@
-# Game-Dev-Library
-- [About](#about)
-- [Refernces](#references)
-- [License](#license) 
-#
+## outline
+everything in this repository and all suggestions based on my personal opinion if you like it give it a star so you can come later.
 
-## content 
+## content
+- ### [Unity basics](#Unity-basics)
+- ### [game mechanics](#game-mechanics)
+- ### [graphics & animations](#graphics--animations)
+- ### [UI design](#ui-design)
+- ### [Audio design](#audio-design)
+- ### [multiplayer & networking](#multiplayer--networking)
+- ### [performance & Optimization](#performance--optimization)
+- ### [Deployment & Distribution](#deployment--distribution)
+- ### [study plan](#study-plan)
 
-- [Road Map](./Road%20map/README.md)
-- [Unity](./Unity/README.md)
-#
-## About
-Game-Maker-Masterclas is a project made by [ahmad-lahluob](https://github.com/ahmadlahluob) to help you finding good resources (video courses / books) talking about game making 
-#
-## References
-Main Roadmap referenced from  [game-developer-roadmap
-](https://github.com/utilForever/game-developer-roadmap).
-# 
-## License
+## Unity basics
 
-<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
+## game mechanics
 
-The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
+## graphics & animations
 
+## UI design
 
+## Audio design
 
-Copyright &copy; 2022 [ahmad lahluob](http://www.github.com/utilForever).
+## multiplayer & networking
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## performance & optimizations
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## deployment & distribution
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## study plan
