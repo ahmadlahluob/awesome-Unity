@@ -175,5 +175,3 @@ everything in this repository and all suggestions based on my personal opinion i
 - [Improve memory usage with the Memory Profiler in Unity (tutorial)](https://www.youtube.com/watch?v=I9wB4Cvgz5g)
 - [Unity3D - Reduce memory footprint with the Memory Profiler](https://www.youtube.com/watch?v=cY00DFgQ2no)
 - [Unity Fix Slow Scene Loading And Memory Management](https://www.youtube.com/watch?v=oAM0k_a4Z9Q)
-
-# Study plan
