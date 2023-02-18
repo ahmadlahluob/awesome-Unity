@@ -85,12 +85,36 @@ everything in this repository and all suggestions based on my personal opinion i
 - [2D PATHFINDING - Enemy AI in Unity](https://www.youtube.com/watch?v=jvtFUfJ6CP8)
 - [A* Pathfinding Tutorial (Unity)](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW)
 - [The PERFECT Pathfinding! (A* Pathfinding Project)](https://www.youtube.com/watch?v=46qZgd-T-hk)
+
+
 # graphics & animations
+
 ## (1) 2D and 3D asset creation
+- [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+- [sea shack tutorial](https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G)
+- [Aseprite Tutorial For Beginners (Pixel Art)](https://www.youtube.com/watch?v=tFsETEP01k8)
 ## (2) Shaders and materials
+- [Basics of Shader Graph - Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+- [Writing Your First Shader In Unity](https://www.youtube.com/playlist?list=PLX2vGYjWbI0RS_lkb68ApE2YPcZMC4Ohz)
+- [Shader Development using Unity](https://www.youtube.com/playlist?list=PL09X4HXJpa8kfw8cZjyYZel8WlOT5B1_k)
+
 ## (3) Lighting and shadows
+- [Light Your World in Unity - 1 Minute Tutorial](https://www.youtube.com/watch?v=NOv31HSqs6U)
+- [LIGHTING in Unity](https://www.youtube.com/watch?v=VnG2gOKV9dw)
+- [Lighting tutorial: 4 techniques to light environments in Unity | Unite 2022](https://www.youtube.com/watch?v=DlxuvvYZO4Q)
+- [HIGH QUALITY LIGHTING using Light Probes - Unity Tutorial](https://www.youtube.com/watch?v=_E0JXOZDTKA)
+- [REALTIME LIGHTING in Unity](https://www.youtube.com/watch?v=wwm98VdzD8s)
+- [2D Lights and Shadows in Unity 2019! (Tutorial)](https://www.youtube.com/watch?v=F5l8vP90EvU)
 ## (4) Particle systems
-## (5) Animation techniques (e.g., skeletal animation, blend trees)
+- [Getting Started with PARTICLES in Unity! (Beginners Start Here!)](https://www.youtube.com/watch?v=Eua7G7Vct0A)
+- [Unity - Particle/VFX Tutorial](https://www.youtube.com/playlist?list=PLrnLkBMB2q325LmhzxJtCD6B8QOH90USj)
+- [15 - Unity 3D || Particle System نظام الجزيئات](https://www.youtube.com/watch?v=n-jS9WSj49I)
+## (5) Animation techniques
+- [How to Animate Characters in Unity 3D | Animator Explained](https://www.youtube.com/watch?v=vApG8aYD5aI)
+- [Unity's Animation System](https://www.youtube.com/playlist?list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO)
+- [Intro to Animation Rigging & Procedural Animation in Unity](https://www.youtube.com/watch?v=Wx1s3CJ8NHw)
+- [Unity procedural animation tutorial (10 steps)](https://www.youtube.com/watch?v=e6Gjhr1IP6w)
+
 # UI design
 ## (1) Designing menus and HUDs
 ## (2) Implementing UI elements
