@@ -116,33 +116,64 @@ everything in this repository and all suggestions based on my personal opinion i
 - [Unity procedural animation tutorial (10 steps)](https://www.youtube.com/watch?v=e6Gjhr1IP6w)
 
 # UI design
-## (1) Designing menus and HUDs
-## (2) Implementing UI elements
-## (3) Animating UI elements
-## (4) User input and feedback
-## (5) Accessibility
+## Designing menus and HUDs
+- [Making UI That Looks Good In Unity](https://www.youtube.com/watch?v=HwdweCX5aMI)
+- [START MENU in Unity](https://www.youtube.com/watch?v=zc8ac_qUXQY)
+- [SETTINGS MENU in Unity](https://www.youtube.com/watch?v=YOaYQrN1oYQ)
+- [PAUSE MENU in Unity](https://www.youtube.com/watch?v=JivuXdrIHK0)
+- [Tutorials - Beginner UI](https://www.youtube.com/playlist?list=PLX2vGYjWbI0Qp0sD8_RKgbWul7z_eyNAv)
+- [Unity UI - Tutorials](https://www.youtube.com/playlist?list=PLb34wPRpZdVf6ZuBpiYirLFdkbDDKhF2Q)
 # Audio design
-## (1) Creating and editing sound effects
-## (2) Implementing music and sound effects
-## (3) Using audio middleware tools (e.g., FMOD, Wwise)
-## (4) Audio optimization
-## 
+- [What you NEED to know about game audio as a beginner in 2021! Unity3d](https://www.youtube.com/watch?v=B9yxkJuHLek)
+- [Tutorial: Game Audio Integration Workflow with FMOD & Unity](https://www.youtube.com/watch?v=5jYSmq9Xqb0)
+- [Introduction to AUDIO in Unity](https://www.youtube.com/watch?v=6OT43pvUyfY)
+- [Unity AUDIO MANAGER Tutorial](https://www.youtube.com/watch?v=rdX7nhH6jdM)
+- [Game Audio with Unity and Wwise Tutorial](https://www.youtube.com/playlist?list=PLzlEBXWjqM97U5rHMERc82sTXRBoSB_Fu)
 # multiplayer & networking
 ## (1) Network architecture and protocols
+- [What is Network Architecture? full Explanation | Peer to Peer and Client-Server architecture](https://www.youtube.com/watch?v=MvPFBVy2hy4)
+- [How Multiplayer Games Work](https://www.youtube.com/watch?v=KBBJqPL5-eU&t=8s)
+- [COMPLETE Unity Multiplayer Tutorial (Netcode for Game Objects)](https://www.youtube.com/watch?v=3yuBOB3VrCk)
+- [How Photon for Unity Works](https://www.youtube.com/watch?v=VmY8k4kvgOY)
+- [9 EASY Steps to create a multiplayer game with Unity & Photon - Tutorial](https://www.youtube.com/watch?v=93SkbMpWCGo)
 ## (2) Matchmaking and lobby systems
+- [How to setup Global Matchmaking for Unity](https://www.youtube.com/watch?v=fdkvm21Y0xE)
+- [Beginners guide to free peer-to-peer matchmaking in Unity using lobby and relay](https://www.youtube.com/watch?v=kHJne9Crdmg)
+- [Making a MULTIPLAYER Game? Join your Players with LOBBY!](https://www.youtube.com/watch?v=-KDlEBfCBiU)
 ## (3) Latency compensation
+- [This Is Why You Get Bad Hit Registration - Unity Multiplayer Game Development](https://www.youtube.com/watch?v=1fZFhzCsHYI)
+- [Lag Compensation for Unity Multiplayer Games | MMAG #12](https://www.youtube.com/watch?v=1-zX0E1YBH8)
+- [Lag Compensation Basics & Misconceptions](https://www.youtube.com/watch?v=aiGwrmMzhjc)
+- [Unity Photon Lag Compensation](https://www.youtube.com/watch?v=EICVU42d4WE)
+
 ## (4) Network synchronization
+- [Synchronizing Data between Clients/Server | Unity Multiplayer Tutorial](https://www.youtube.com/watch?v=8tKFF0RP9Jw)
+- [How to Use Photon to Create Multiplayer in Unity - Sync Scene Data](https://www.youtube.com/watch?v=Q5yDCCBGD8E)
+- [Unity - Photon Networking v1 - Part 13 - Synchronizing Data](https://www.youtube.com/watch?v=dQ-Y33T92wU)
+- [Photon Networking 2 - OnPhotonSerializeView](https://www.youtube.com/watch?v=RGb0_o691jo)
+
 ## (5) Security
+- [Security with Unity | Make PlayerPrefs more secure in Unity](https://www.youtube.com/watch?v=3sp-Npft79A)
+- [Unity Game Data Protection Tutorial (Hashing)](https://www.youtube.com/watch?v=36FqEUMCuvI)
+- [Anti-Cheat Tools 2022 | Unity Asset Store](https://www.youtube.com/watch?v=9hsf4W7KVTk)
 # performance & optimizations
 ## (1) Reducing draw calls and batches
-## (2) Optimizing code and scripts
-## (3) Asset optimization (e.g., texture compression, LOD)
+- [Unity Optimization : reducing 3D objects' draw calls](https://www.youtube.com/watch?v=vU3au56UV_E)
+- [Unity Performance Tips: Draw Calls](https://www.youtube.com/watch?v=IrYPkSIvpIw)
+- [Unity Optimization Reducing draw calls - Verts Count - Tris Count Increasing FPS in 2.5 Minutes](https://www.youtube.com/watch?v=_R21lceLw9g)
+## (2) Optimizing code and 
+- [Unity Code Optimization - Do you know them all?](https://www.youtube.com/watch?v=Xd4UhJufTx4)
+- [Better Coding in Unity With Just a Few Lines of Code](https://www.youtube.com/watch?v=r-RCfmQqLA0)
+- [Unity Tutorial - TIPS and TRICKS for Optimising Scripts](https://www.youtube.com/watch?v=EQ-gx_CySd8)
+- [A Way to Improve Unity Performance of Your Game when Using Visual Scripting](https://www.youtube.com/watch?v=BPXx-ddW818)
+## (3) Asset optimization
+- [Asset Optimization and Performance Tips in Unity and not only | 4bits](https://www.youtube.com/watch?v=7dDFjv51kaU)
+- [AAA Game Optimization Techniques with Unity 3D Part I (3D asset Optimization)](https://www.youtube.com/watch?v=pMPd-TPZ_ow)
+- [Optimizing materials for Unity | Quick Learn | Game Optimization](https://www.youtube.com/watch?v=o7oHxbpsmcc)
 ## (4) Memory management
-## (5) Profiling and debugging
-# deployment & distribution
-## (1) Publishing to various platforms (e.g., PC, mobile, console)
-## (2) Platform-specific considerations (e.g., app stores, certification requirements)
-## (3) Packaging and bundling assets
-## (4) Localization
-## (5) Marketing and promotion
+- [Unity Addressable - Memory Management](https://www.youtube.com/watch?v=6uokNb87cjY)
+- [Improve memory usage with the Memory Profiler in Unity (tutorial)](https://www.youtube.com/watch?v=I9wB4Cvgz5g)
+- [Unity3D - Reduce memory footprint with the Memory Profiler](https://www.youtube.com/watch?v=cY00DFgQ2no)
+- [Unity Fix Slow Scene Loading And Memory Management](https://www.youtube.com/watch?v=oAM0k_a4Z9Q)
+
 # Study plan
