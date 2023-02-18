@@ -77,4 +77,56 @@ Augmented Reality (AR) in Unity playlist by Unity Learn (https://www.youtube.com
 ## book
 - [Unity AR & VR by Tutorials](https://www.amazon.com/Unity-AR-VR-Tutorials-First/dp/1942878648)
 #
-##
+## Weeks 27-28: Artificial Intelligence (AI) in Unity
+## youtube
+- [AI in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0R_KLHcq5BK_jZQo0aKoBXi)
+## book
+- [Programming Game AI by Example by Mat Buckland](https://www.amazon.com/Programming-Game-Example-Mat-Buckland/dp/1556220782)
+#
+## Weeks 29-30: Advanced Graphics and Visual Effects in Unity
+## youtube
+- [Advanced Graphics and Visual Effects in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0Rb7BrZYJk_uFb7Jx6d0Pkw)
+#
+## Weeks 31-32: Optimization and Performance in Unity
+## youtube
+- [Unity Optimization and Performance playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0QGz6b59KTVbALn6IvlnY3r)
+## book
+- [Unity Performance Optimization: Optimize your Unity projects by understanding performance optimization concepts and techniques by Chris Dickinson](https://www.packtpub.com/product/unity-performance-optimization/9781800560201)
+#
+## Weeks 33-34: Cross-platform Development with Unity
+## youtbe
+- [Unity Cross-platform Development playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S8iu7ZuAh_-K3_zqzvLNtF)
+## book
+- [Unity Mobile Game Development: Build, deploy, and monetize games for Android and iOS with Unity by Harrison Ferrone](https://www.packtpub.com/product/unity-mobile-game-development/9781838981193)
+#
+## Weeks 35-36: Multiplayer Game Development with Unity
+## youtube
+- [Multiplayer Game Development with Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S7yEYfCmV7vM4OXQ2Vjs9k)
+- [Mastering Unity 2D Game Development: Build high-performance 2D games and deploy them across multiple platforms by Harrison Ferrone](https://www.packtpub.com/product/mastering-unity-2d-game-development/9781839211162)
+#
+## Weeks 37-38: Integrating External Services with Unity
+## youtube
+- [Integrating External Services with Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S4rZeJzyLK6UaT6ytuxhm6)
+## book
+- [Unity Game Development Cookbook: Essentials for Every Game by Paris Buttfield-Addison, Tim Nugent, and Jon Manning](https://www.amazon.com/Unity-Game-Development-Cookbook-Essentials/dp/1491999152)
+#
+## Weeks 39-40: Advanced Physics and Simulations in Unity
+## youtube
+- [Advanced Physics and Simulations in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0Q8e3WjKXZbE2Jn5BMLtqo3)
+#
+## Weeks 41-42: Advanced UI
+## youtube
+- [Advanced UI in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0S_KSycMf3eGXO3Ic3MRu-O)
+## book
+- [Book: Mastering UI Development with Unity: An in-depth guide to developing engaging user interfaces with Unity 5, Unity 2017, and Unity 2018 by Ashley Godbold](https://www.amazon.com/Mastering-Development-Unity-engaging-interfaces-ebook/dp/B078YCGYKV)
+#
+
+## Weeks 47-48: Scriptable Render Pipeline (SRP)
+## youtube
+- [SRP in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0QD5YKcTIftJbGw5rFJFBFX)
+## Book
+- [Unity 2018 Shaders and Effects Cookbook: Transform your game into a visually stunning masterpiece with over 70 recipes by John P. Doran](https://www.packtpub.com/product/unity-2018-shaders-and-effects-cookbook/9781788396233)
+#
+## Weeks 51-52: Cloud Services and Networking
+## youtube
+- [Cloud Services and Networking in Unity playlist by Unity Learn](https://www.youtube.com/playlist?list=PLX2vGYjWbI0QGyFCsM2dj1EcZvXaWfIXp)
