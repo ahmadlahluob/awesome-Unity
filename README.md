@@ -161,7 +161,7 @@ everything in this repository and all suggestions based on my personal opinion i
 - [Unity Optimization : reducing 3D objects' draw calls](https://www.youtube.com/watch?v=vU3au56UV_E)
 - [Unity Performance Tips: Draw Calls](https://www.youtube.com/watch?v=IrYPkSIvpIw)
 - [Unity Optimization Reducing draw calls - Verts Count - Tris Count Increasing FPS in 2.5 Minutes](https://www.youtube.com/watch?v=_R21lceLw9g)
-## (2) Optimizing code and 
+## (2) Optimizing code 
 - [Unity Code Optimization - Do you know them all?](https://www.youtube.com/watch?v=Xd4UhJufTx4)
 - [Better Coding in Unity With Just a Few Lines of Code](https://www.youtube.com/watch?v=r-RCfmQqLA0)
 - [Unity Tutorial - TIPS and TRICKS for Optimising Scripts](https://www.youtube.com/watch?v=EQ-gx_CySd8)
