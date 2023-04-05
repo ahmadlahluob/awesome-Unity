@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/stars/ahmadlahluob/awesome-Unity?style=social) ![GitHub](https://img.shields.io/github/license/ahmadlahluob/awesome-Unity?style=social)
 ## outline
 everything in this repository and all suggestions based on my personal opinion if you like it give it a star so you can come later.
 
