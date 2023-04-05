@@ -48,3 +48,15 @@
 - [A Beginners Guide To Procedural Generation: Unity3D](https://www.youtube.com/playlist?list=PLu2uAkIZ4shpPdCTIjEpvhD8U-RRM3Y2F)
 - [Writing Your First Shader In Unity](https://www.youtube.com/playlist?list=PLX2vGYjWbI0RS_lkb68ApE2YPcZMC4Ohz)
 - [Unity VFX Graph Tutorials](https://www.youtube.com/playlist?list=PLpPd_BKEUoYhN8CiOoNLTSVh-7U5yjg3n)
+
+# Phase 7: Game engine Achitecture
+### this topic for people who want to learn how game engines works and how to build a game engine in this topic and forwarn you must have a full understanding of game development cycle and programming fundamentals 
+- [Vulkan Game Engine Series Written in C (Kohi Game Engine)](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj)
+- [Introduction to C](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPgQRT0VQXpbnRR1SdiGgwQk)
+- [Game Engine Architecture](https://www.youtube.com/playlist?list=PLGvfHSgImk4ae9O7hLks6AJQTnQ3IIpDi)
+- [Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+
+# Phase 8: Graphics programming
+- [3D Programming Fundamentals](https://www.youtube.com/playlist?list=PLqCJpWy5Fohe8ucwhksiv9hTF5sfid8lA)
+- [6.837: Introduction to Computer Graphics (fall 2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh)
+- [C# & OpenGL with OpenTK | Tutorials | Advanced Graphics Programming in C#](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3ggUK3XZjBmwnSjhbhJH3kp)
