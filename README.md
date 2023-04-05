@@ -21,7 +21,7 @@ everything in this repository and all suggestions based on my personal opinion i
 - [How to work with multiple scenes in Unity (UNITY)](https://www.youtube.com/watch?v=zObWVOv1GlE)
 - [Scene Manager in Unity (Loading Unity Tutorial){Code Monkey}](https://www.youtube.com/watch?v=3I5d2rUJ0pE)
 ## (3) Asset management
--[Unity - Keep your project fast & reduce clutter! [Asset Management]](https://www.youtube.com/watch?v=8RUhPQ_rbnw)
+- [Unity - Keep your project fast & reduce clutter! [Asset Management]](https://www.youtube.com/watch?v=8RUhPQ_rbnw)
 - [Quick Tip: Referencing Assets through Code | Unity Tutorial
 ](https://www.youtube.com/watch?v=7GcEW6uwO8E)
 ## (4) Game objects and components
